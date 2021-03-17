@@ -12,7 +12,7 @@ To do list (Any team member can make changes and then send me the code and I wil
 
 1. Add the ability to turn the alarm off after turning it on... (lol)
 
-                        \/ OPTIONAL CHANGES!!! \/
+                       \/ OPTIONAL CHANGES!!! \/
 
 1. Add EEPROM so that the clock will save alarm settings whenever it gets unplugged from the wall...
 
