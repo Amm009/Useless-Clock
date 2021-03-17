@@ -10,7 +10,7 @@ To do list (Any team member can make changes and then send me the code and I wil
 
                         \/ NECESSARY CHANGES!!! \/
 
-1. Add the ability to turn the alarm off after turning it on... (lol)
+1. Add the ability to turn the alarm off after turning it on... ¯\_(ツ)_/¯
 
                        \/ OPTIONAL CHANGES!!! \/
 
